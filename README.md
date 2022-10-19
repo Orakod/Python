@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orakod
 - 👀 I’m interested in Data Analystic 
-- 🌱 I’m currently learning Databoothcamp ! and Google data Studio is coming !!
+- 🌱 I’m currently learning machine learning and try to make image classification :)
 - 📫 How to reach me orakod97@gmail.com
 
 <!---
